@@ -1,3 +1,0 @@
-#english translated strings
-hello_msg=hello
-goodbye_msg=goodbye
